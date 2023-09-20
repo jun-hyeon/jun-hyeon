@@ -1,16 +1,12 @@
 # 성장하고 싶은 개발자 최준현입니다!
-<br>
 
 [![Static Badge](https://img.shields.io/badge/Gamil-red?logo=gmail&logoColor=white)](mailto:cjhn8918989@gmail.com) 
 [![Static Badge](https://img.shields.io/badge/Portfolio-white?logo=googledocs&logoColor=white&labelColor=black)](https://drive.google.com/file/d/1Vi5xYdmnqmPG7A_arpnYHLwWqtdMvcHi/view?usp=drive_link)
 
-
-### 최근에 빠져있는 것
-+ Game - Steam, Nintendo Switch
-  + 최근에는 발더스 게이트 3(Baldur's Gate 3)이라는 게임을 하고 있습니다!
-+ Swift
-  + 코틀린과 유사해서 계속해서 흥미가 생깁니다! 
-
+* 이름: 최준현
+* 취미: 게임, 카페가기
+* Email: [cjhn8918989@gmail.com](cjhn8918989@gmail.com)
+* GitHub: [github.com/jun-hyeon](github.com/jun-hyeon)
 
 ### 도구 및 언어
 <p>
