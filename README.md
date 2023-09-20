@@ -7,7 +7,7 @@
 * 이름: 최준현
 * 취미: 게임, 카페가기
 * Email: [![Static Badge](https://img.shields.io/badge/Gamil-red?logo=gmail&logoColor=white)](mailto:cjhn8918989@gmail.com) 
-* GitHub: [github.com/jun-hyeon](https://github.com/jun-hyeon)
+* GitHub: [![Static Badge](https://img.shields.io/badge/GitHub-%23181717?logo=GitHub&logoColor=white&labelColor=black)](https://github.com/jun-hyeon)
 * Portfolio: [![Static Badge](https://img.shields.io/badge/Portfolio-white?logo=googledocs&logoColor=white&labelColor=black)](https://drive.google.com/file/d/1Vi5xYdmnqmPG7A_arpnYHLwWqtdMvcHi/view?usp=drive_link)
 
 
