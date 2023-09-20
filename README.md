@@ -21,9 +21,7 @@
 </p>
 
 ### Android Studio & Kotlin
-* Kotlin
-  * Coroutine
-      
+* Coroutine     
 * Jetpack library
   * Room
   * Navigation
