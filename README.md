@@ -8,6 +8,10 @@
 * Email: [cjhn8918989@gmail.com](cjhn8918989@gmail.com)
 * GitHub: [github.com/jun-hyeon](https://github.com/jun-hyeon)
 
+```
+모르는 것이 있다면 바로바로 질문하여 성장하는 개발자가 되고싶습니다.
+```
+
 ### 도구 및 언어
 <p>
 <img src="https://img.shields.io/badge/git-F05032?logo=git&logoColor=white">
