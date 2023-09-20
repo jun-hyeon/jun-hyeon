@@ -1,4 +1,4 @@
-#성장하고 싶은 개발자 최준현입니다!
+# 성장하고 싶은 개발자 최준현입니다!
 <br>
 
 [![Static Badge](https://img.shields.io/badge/Gamil-red?logo=gmail&logoColor=white)](mailto:cjhn8918989@gmail.com) 
