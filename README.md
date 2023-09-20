@@ -22,7 +22,7 @@
 
 ### Android Studio & Kotlin
    * Kotlin
-     *Couroutine
+     * Couroutine
       
    * Jetpack library
      * Room
