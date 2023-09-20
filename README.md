@@ -21,10 +21,12 @@
 </p>
 
 ### Android Studio & Kotlin
+   * Kotlin
+     *Couroutine
+      
    * Jetpack library
      * Room
      * Navigation
-     * Coroutine
      * Jetpack Compose
     
 
