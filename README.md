@@ -6,7 +6,7 @@
 * 이름: 최준현
 * 취미: 게임, 카페가기
 * Email: [cjhn8918989@gmail.com](cjhn8918989@gmail.com)
-* GitHub: [github.com/jun-hyeon](github.com/jun-hyeon)
+* GitHub: [github.com/jun-hyeon](https://github.com/jun-hyeon/)
 
 ### 도구 및 언어
 <p>
