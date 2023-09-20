@@ -1,16 +1,19 @@
 # 성장하고 싶은 개발자 최준현입니다!
 
-[![Static Badge](https://img.shields.io/badge/Gamil-red?logo=gmail&logoColor=white)](mailto:cjhn8918989@gmail.com) 
-[![Static Badge](https://img.shields.io/badge/Portfolio-white?logo=googledocs&logoColor=white&labelColor=black)](https://drive.google.com/file/d/1Vi5xYdmnqmPG7A_arpnYHLwWqtdMvcHi/view?usp=drive_link)
-
-* 이름: 최준현
-* 취미: 게임, 카페가기
-* Email: [cjhn8918989@gmail.com](cjhn8918989@gmail.com)
-* GitHub: [github.com/jun-hyeon](https://github.com/jun-hyeon)
-
 ```
 모르는 것이 있다면 바로바로 질문하여 성장하는 개발자가 되고싶습니다.
 ```
+
+
+
+
+* 이름: 최준현
+* 취미: 게임, 카페가기
+* Email: [![Static Badge](https://img.shields.io/badge/Gamil-red?logo=gmail&logoColor=white)](mailto:cjhn8918989@gmail.com) 
+* GitHub: [github.com/jun-hyeon](https://github.com/jun-hyeon)
+* Portfolio: [![Static Badge](https://img.shields.io/badge/Portfolio-white?logo=googledocs&logoColor=white&labelColor=black)](https://drive.google.com/file/d/1Vi5xYdmnqmPG7A_arpnYHLwWqtdMvcHi/view?usp=drive_link)
+
+
 
 ### 도구 및 언어
 <p>
