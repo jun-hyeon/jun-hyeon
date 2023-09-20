@@ -8,9 +8,13 @@
 * 취미: 게임, 카페가기
 * Email: [![Static Badge](https://img.shields.io/badge/Gamil-red?logo=gmail&logoColor=white)](mailto:cjhn8918989@gmail.com) 
 * Portfolio: [![Static Badge](https://img.shields.io/badge/Portfolio-white?logo=googledocs&logoColor=white&labelColor=black)](https://drive.google.com/file/d/1Vi5xYdmnqmPG7A_arpnYHLwWqtdMvcHi/view?usp=drive_link)
+ 
 
+## 학력
+* 2018.02 ~ 2022.02 유한대학교 스마트앱콘텐츠학과
+* 2022.02 ~ 재학 중   경희사이버대학 컴퓨터공학
 
-
+  
 ## 도구 및 언어
 <p>
 <img src="https://img.shields.io/badge/git-F05032?logo=git&logoColor=white">
