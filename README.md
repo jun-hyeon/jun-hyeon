@@ -10,7 +10,7 @@
 
 ## 학력
 * 2018.03 ~ 2022.02 유한전문대학교 스마트앱콘텐츠학과(2년제)
-* 2022.03 ~ 2024.02 경희사이버대학 컴퓨터공학
+* 2022.03 ~ 2024.02 경희사이버대학 컴퓨터공학 (졸업)
 
   
 ## 도구 및 언어
@@ -22,12 +22,7 @@
 <img src="https://img.shields.io/badge/Kotlin-%237F52FF?logo=Kotlin&logoColor=white">
 </p>
 
-### Android Studio & Kotlin
-* Coroutine     
-* Jetpack Library
-  * Room
-  * Navigation
-  * Jetpack Compose
+
  
 ### Xcode & Swift
 * SwiftUI
