@@ -27,5 +27,13 @@
 ### Xcode & Swift
 * SwiftUI
 * Swift
+
+### iOS Projects
+## 해외축구 서포터즈
+<img src="https://github.com/APP-iOS3rd/PJ2T10_SportsFan/assets/83914919/5d995c42-2248-4cd1-9c32-a74db2f4bfc4" width=200 height=400> 
+<img src="https://github.com/APP-iOS3rd/PJ2T10_SportsFan/assets/83914919/72c3deb9-cbdd-4703-abdf-a51b36586b9d" width=200 height=400>
+<a href="https://github.com/APP-iOS3rd/PJ2T10_SportsFan">
+ <p>more</p>
+</a>
     
 
