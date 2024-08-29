@@ -33,7 +33,7 @@
 <img src ="https://github.com/user-attachments/assets/9ef2579b-6338-4733-99d9-6301e3061ad4" width=200 height=400>
 <img src= "https://github.com/user-attachments/assets/8af04954-4503-45ff-b78d-87ee03ea92a1" width=200 height=400>
 <img src= "https://github.com/user-attachments/assets/005823a3-851a-4a4c-a511-b1fdaa5bbb48" width=200 height=400>
-<a href="[https://github.com/jun-hyeon/SwiftProject/tree/main/ImageList](https://github.com/jun-hyeon/JustChat/tree/main)">
+<a href="https://github.com/jun-hyeon/JustChat/tree/main">
   <p>more about JustChat</p>
 </a>
 
