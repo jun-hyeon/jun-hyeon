@@ -28,12 +28,27 @@
 * SwiftUI
 * Swift
 
-### iOS Projects
+# iOS Projects
+## 계산기
+### iPhone 계산기 따라 만들어보기
+<img src= https://github.com/user-attachments/assets/6fefd386-98d3-4e73-b9a6-6292c9f3d778 width=200 height=400>
+<a href="https://github.com/jun-hyeon/SwiftProject/tree/main/MyCalculcator">
+<p>MyCalculator Code</p>
+</a>
+
+## ImageList
+### Pexels의 api를 이용한 무한스크롤 이미지 불러오기
+<img src="https://github.com/user-attachments/assets/e0bb42c7-38ea-4239-8500-978aa1051910" width=200 height=400>
+<a href="https://github.com/jun-hyeon/SwiftProject/tree/main/ImageList">
+  <p>ImageList Code</p>
+</a>
+
+
 ## 해외축구 서포터즈
 <img src="https://github.com/APP-iOS3rd/PJ2T10_SportsFan/assets/83914919/5d995c42-2248-4cd1-9c32-a74db2f4bfc4" width=200 height=400> 
 <img src="https://github.com/APP-iOS3rd/PJ2T10_SportsFan/assets/83914919/72c3deb9-cbdd-4703-abdf-a51b36586b9d" width=200 height=400>
 <a href="https://github.com/APP-iOS3rd/PJ2T10_SportsFan">
  <p>more</p>
 </a>
-    
+  
 
