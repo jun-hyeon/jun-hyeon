@@ -46,7 +46,6 @@
  <p>해외축구 서포터즈 더보기</p>
 </a>
 
-# iOS Projects
 ## 계산기
 ### iPhone 계산기 따라 만들어보기
 <img src= https://github.com/user-attachments/assets/6fefd386-98d3-4e73-b9a6-6292c9f3d778 width=200 height=400>
