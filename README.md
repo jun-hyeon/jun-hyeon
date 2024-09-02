@@ -9,7 +9,7 @@
  
 
 ## 학력
-* 2018.03 ~ 2022.02 유한전문대학교 스마트앱콘텐츠학과(2년제)
+* 2018.03 ~ 2022.02 유한전문대학교 스마트앱콘텐츠학과(2년제, 졸업)
 * 2022.03 ~ 2024.02 경희사이버대학 컴퓨터공학 (졸업)
 
   
@@ -18,8 +18,6 @@
 <img src="https://img.shields.io/badge/git-F05032?logo=git&logoColor=white">
 <img src="https://img.shields.io/badge/Swift-%23F05138?logo=Swift&logoColor=white">
 <img src="https://img.shields.io/badge/Xcode-%23147EFB?logo=Xcode&logoColor=white">
-<img src="https://img.shields.io/badge/AndroidStudio-%233DDC84?logo=androidstudio&logoColor=white">
-<img src="https://img.shields.io/badge/Kotlin-%237F52FF?logo=Kotlin&logoColor=white">
 </p>
 
 
