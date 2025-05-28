@@ -21,7 +21,7 @@
 ### AndroidProjects: [![Static Badge](https://img.shields.io/badge/Portfolio-white?logo=googledocs&logoColor=white&labelColor=black)](https://drive.google.com/file/d/1Vi5xYdmnqmPG7A_arpnYHLwWqtdMvcHi/view?usp=drive_link)
 
 <details>
-<summary> ### iOS Projects</summary>
+<summary> <h3>iOS Projects</h3></summary>
 <div markdown="1">
 
 ### Xcode & Swift
