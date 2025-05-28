@@ -19,11 +19,14 @@
 </p>
 
 ### AndroidProjects: [![Static Badge](https://img.shields.io/badge/Portfolio-white?logo=googledocs&logoColor=white&labelColor=black)](https://drive.google.com/file/d/1Vi5xYdmnqmPG7A_arpnYHLwWqtdMvcHi/view?usp=drive_link)
- 
+
+<details>
+<summary>iOS Projects</summary>
+<div markdown="1">
+
 ### Xcode & Swift
 * SwiftUI
 * Swift
-# iOS Projects
 ## JustChat
 ### 웹소켓을 이용한 채팅 앱
 <img src ="https://github.com/user-attachments/assets/fcd4aab6-9b0f-490f-aee1-a05acb8959d1" width=200 height = 400>
@@ -58,6 +61,11 @@
 <a href="https://github.com/jun-hyeon/SwiftProject/tree/main/ImageList">
   <p>ImageList 더보기</p>
 </a>
+
+
+
+</div>
+</details>
 
 
 
