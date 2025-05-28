@@ -3,7 +3,7 @@
 * 이름: 최준현
 * 생년월일: 1999.09.01
 * Email: [![Static Badge](https://img.shields.io/badge/Gamil-red?logo=gmail&logoColor=white)](mailto:cjhn8918989@gmail.com) 
-* AndroidProjects: [![Static Badge](https://img.shields.io/badge/Portfolio-white?logo=googledocs&logoColor=white&labelColor=black)](https://drive.google.com/file/d/1Vi5xYdmnqmPG7A_arpnYHLwWqtdMvcHi/view?usp=drive_link)
+
  
 
 ## 학력
@@ -18,7 +18,7 @@
 <img src="https://img.shields.io/badge/Xcode-%23147EFB?logo=Xcode&logoColor=white">
 </p>
 
-
+### AndroidProjects: [![Static Badge](https://img.shields.io/badge/Portfolio-white?logo=googledocs&logoColor=white&labelColor=black)](https://drive.google.com/file/d/1Vi5xYdmnqmPG7A_arpnYHLwWqtdMvcHi/view?usp=drive_link)
  
 ### Xcode & Swift
 * SwiftUI
