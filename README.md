@@ -70,12 +70,12 @@
 <details>
  <summary> <h3> Flutter Projects</h3> </summary>
  <div>
+  
 ## delivery app
 <p>강의를 보고 구현해본 배달 앱입니다.</p>
 <p>flutter: 3.0.0 이상</p>
 <p>riverpod: 2.0 이상</p>
-
-
+  
 <br>
 <img src= "https://github.com/user-attachments/assets/60ffac67-77ee-4a91-87b0-f5a5f9ce3de3" width=200 height=400>
 <img src= "https://github.com/user-attachments/assets/2a312db5-6993-4fae-8b6b-daf5a3c58025" width=200 height=400>
