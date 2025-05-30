@@ -73,7 +73,7 @@
  # delivery_app
 <p>강의를 보고 구현해본 배달 앱입니다.</p>
 <p>flutter: 3.0.0 이상</p>
-<p>riverpod 2.0 이상</p>
+<p>riverpod: 2.0 이상</p>
 
 
 <br>
