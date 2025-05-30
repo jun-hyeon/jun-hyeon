@@ -71,9 +71,10 @@
  <summary> <h3> Flutter Projects</h3> </summary>
  <div>
  # delivery_app
-강의를 보고 구현해본 배달 앱입니다.
-flutter: > 3.0
-riverpod 2.0
+<p>강의를 보고 구현해본 배달 앱입니다.</p>
+<p>flutter: 3.0.0 이상</p>
+<p>riverpod 2.0 이상</p>
+
 
 <br>
 <img src= "https://github.com/user-attachments/assets/60ffac67-77ee-4a91-87b0-f5a5f9ce3de3" width=200 height=400>
