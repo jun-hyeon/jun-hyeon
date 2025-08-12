@@ -19,11 +19,6 @@
 </p>
 
 
-
-<details>
-<summary> <h3> iOS Projects</h3> </summary>
-<div markdown="1">
-
 <details>
  <summary> <h3> Flutter Projects</h3> </summary>
  <div>
@@ -60,6 +55,13 @@
 
  </div>
 </details>
+
+
+<details>
+<summary> <h3> iOS Projects</h3> </summary>
+<div markdown="1">
+
+
 
 ### Xcode & Swift
 * SwiftUI
