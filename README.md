@@ -18,11 +18,48 @@
 <img src="https://img.shields.io/badge/Xcode-%23147EFB?logo=Xcode&logoColor=white">
 </p>
 
-### AndroidProjects: [![Static Badge](https://img.shields.io/badge/Portfolio-white?logo=googledocs&logoColor=white&labelColor=black)](https://drive.google.com/file/d/1Vi5xYdmnqmPG7A_arpnYHLwWqtdMvcHi/view?usp=drive_link)
+
 
 <details>
 <summary> <h3> iOS Projects</h3> </summary>
 <div markdown="1">
+
+<details>
+ <summary> <h3> Flutter Projects</h3> </summary>
+ <div>
+
+## TestQuest 
+<img src= "https://github.com/user-attachments/assets/3509abcb-4ff0-4f59-b3e1-a1452d4f039d" width=200 height=400>
+<img src= "https://github.com/user-attachments/assets/3527fc56-88bd-4b2b-aa0f-811040c04d65" width=200 height=400>
+<img src= "https://github.com/user-attachments/assets/4363a86a-4728-4baa-b7a8-464bf849dee8" width=200 height=400>
+<img src = "https://github.com/user-attachments/assets/f60f4739-9de3-47b8-859f-307839fb8437" width=200 height=400>
+<img src="https://github.com/user-attachments/assets/1a125846-78a4-4dd5-9ae5-ed66eb209683" width=200 height=400>
+<br>
+<a href="https://github.com/jun-hyeon/test_quest">바로가기</a>
+  
+## delivery app
+<p>강의를 보고 구현해본 배달 앱입니다.</p>
+<p>flutter: 3.0.0 이상</p>
+<p>riverpod: 2.0 이상</p>
+  
+<br>
+<img src= "https://github.com/user-attachments/assets/60ffac67-77ee-4a91-87b0-f5a5f9ce3de3" width=200 height=400>
+<img src= "https://github.com/user-attachments/assets/2a312db5-6993-4fae-8b6b-daf5a3c58025" width=200 height=400>
+<img src= "https://github.com/user-attachments/assets/fa5cccb1-06b8-4b43-8ef5-8659c8d75f6e" width=200 height=400>
+
+## chat_test
+<p>Flutter와 Supabase을 이용한 채팅앱</p>
+<p>flutter v3.5.4</p>
+
+<image src = https://github.com/user-attachments/assets/e2cdd4c3-235a-464a-8dfa-1c0abde982f5 width = 800 height = 400>
+<br>
+
+<image src = https://github.com/user-attachments/assets/3a7dfc5c-96a5-443d-b137-cb085e78b90e width=200 height = 400>
+
+<image src = https://github.com/user-attachments/assets/6d06a8df-bfcf-4ef5-80f8-0d1944801efe width=200 height = 400>
+
+ </div>
+</details>
 
 ### Xcode & Swift
 * SwiftUI
@@ -67,42 +104,8 @@
 </div>
 </details>
 
-<details>
- <summary> <h3> Flutter Projects</h3> </summary>
- <div>
+### AndroidProjects: [![Static Badge](https://img.shields.io/badge/Portfolio-white?logo=googledocs&logoColor=white&labelColor=black)](https://drive.google.com/file/d/1Vi5xYdmnqmPG7A_arpnYHLwWqtdMvcHi/view?usp=drive_link)
 
-## TestQuest 
-<img src= "https://github.com/user-attachments/assets/3509abcb-4ff0-4f59-b3e1-a1452d4f039d" width=200 height=400>
-<img src= "https://github.com/user-attachments/assets/3527fc56-88bd-4b2b-aa0f-811040c04d65" width=200 height=400>
-<img src= "https://github.com/user-attachments/assets/4363a86a-4728-4baa-b7a8-464bf849dee8" width=200 height=400>
-<img src = "https://github.com/user-attachments/assets/f60f4739-9de3-47b8-859f-307839fb8437" width=200 height=400>
-<img src="https://github.com/user-attachments/assets/1a125846-78a4-4dd5-9ae5-ed66eb209683" width=200 height=400>
-<br>
-<a href="https://github.com/jun-hyeon/test_quest">바로가기</a>
-  
-## delivery app
-<p>강의를 보고 구현해본 배달 앱입니다.</p>
-<p>flutter: 3.0.0 이상</p>
-<p>riverpod: 2.0 이상</p>
-  
-<br>
-<img src= "https://github.com/user-attachments/assets/60ffac67-77ee-4a91-87b0-f5a5f9ce3de3" width=200 height=400>
-<img src= "https://github.com/user-attachments/assets/2a312db5-6993-4fae-8b6b-daf5a3c58025" width=200 height=400>
-<img src= "https://github.com/user-attachments/assets/fa5cccb1-06b8-4b43-8ef5-8659c8d75f6e" width=200 height=400>
-
-## chat_test
-<p>Flutter와 Supabase을 이용한 채팅앱</p>
-<p>flutter v3.5.4</p>
-
-<image src = https://github.com/user-attachments/assets/e2cdd4c3-235a-464a-8dfa-1c0abde982f5 width = 800 height = 400>
-<br>
-
-<image src = https://github.com/user-attachments/assets/3a7dfc5c-96a5-443d-b137-cb085e78b90e width=200 height = 400>
-
-<image src = https://github.com/user-attachments/assets/6d06a8df-bfcf-4ef5-80f8-0d1944801efe width=200 height = 400>
-
- </div>
-</details>
 
 
 
