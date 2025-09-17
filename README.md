@@ -13,6 +13,7 @@
   
 ## 도구 및 언어
 <p>
+<img src="https://img.shields.io/badge/flutter-blue?style=flat-square&logo=flutter">
 <img src="https://img.shields.io/badge/git-F05032?logo=git&logoColor=white">
 <img src="https://img.shields.io/badge/Swift-%23F05138?logo=Swift&logoColor=white">
 <img src="https://img.shields.io/badge/Xcode-%23147EFB?logo=Xcode&logoColor=white">
