@@ -14,7 +14,7 @@
 
 ## 🛠️ 기술 스택
 ![flutter](https://img.shields.io/badge/Flutter-blue?style=flat-square&logo=flutter)
-![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=androidstudio&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Android_Studio-blue?style=flat-square&logo=AndroidStudio)
 ![git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Swift](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white)
 ![Xcode](https://img.shields.io/badge/Xcode-147EFB?style=flat-square&logo=xcode&logoColor=white)
@@ -109,5 +109,5 @@ Pexels API를 이용한 무한스크롤 이미지 앱
 
 ---
 
-### ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=androidstudio&logoColor=white) Android Projects
+### ![Static Badge](https://img.shields.io/badge/Android_Studio-blue?style=flat-square&logo=AndroidStudio) Android Projects
 [![Portfolio](https://img.shields.io/badge/Portfolio-black?logo=googledocs&logoColor=white)](https://drive.google.com/file/d/1Vi5xYdmnqmPG7A_arpnYHLwWqtdMvcHi/view?usp=drive_link)
