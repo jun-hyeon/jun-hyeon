@@ -22,7 +22,7 @@
 ---
 
 <details>
-<summary>📱 Flutter Projects</summary>
+<summary><span style="font-size: 24px; font-weight: bold;"></span>📱 Flutter Projects</summary>
 
 ### TestQuest
 게임 CBT/OBT/Alpha Test 정보를 모아 커뮤니티와 공유할 수 있는 앱  
