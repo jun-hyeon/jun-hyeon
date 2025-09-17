@@ -22,7 +22,7 @@
 ---
 
 <details>
-<summary>📱 Flutter Projects</summary>
+<summary><h2>📱 Flutter Projects</h2></summary>
 
 ### TestQuest
 게임 CBT/OBT/Alpha Test 정보를 모아 커뮤니티와 공유할 수 있는 앱  
@@ -63,7 +63,7 @@ Flutter + Supabase 기반 채팅 앱
 ---
 
 <details>
-<summary>🍎 iOS Projects</summary>
+<summary><h2>🍎 iOS Projects</h2></summary>
 
 ### JustChat
 웹소켓을 이용한 SwiftUI 기반 채팅 앱  
@@ -109,5 +109,5 @@ Pexels API를 이용한 무한스크롤 이미지 앱
 
 ---
 
-### 🤖 Android Projects
+### <h2>🤖 Android Projects<h2/>
 [![Portfolio](https://img.shields.io/badge/Portfolio-black?logo=googledocs&logoColor=white)](https://drive.google.com/file/d/1Vi5xYdmnqmPG7A_arpnYHLwWqtdMvcHi/view?usp=drive_link)
