@@ -109,5 +109,5 @@ Pexels API를 이용한 무한스크롤 이미지 앱
 
 ---
 
-### 🤖 Android Projects
+## 🤖 Android Projects
 [![Portfolio](https://img.shields.io/badge/Portfolio-black?logo=googledocs&logoColor=white)](https://drive.google.com/file/d/1Vi5xYdmnqmPG7A_arpnYHLwWqtdMvcHi/view?usp=drive_link)
